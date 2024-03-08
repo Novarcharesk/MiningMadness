@@ -1,0 +1,11 @@
+SM_Cliffside_1_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Cliffside_2_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Cliffside_3_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Cliffside_4_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Cliffside_5_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_CliffTop_1_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_CliffTop_2_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_FlatRockClust_1_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_TRock_1_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_TRock_2_.uasset filter=lfs diff=lfs merge=lfs -text
+SM_TRock_3_.uasset filter=lfs diff=lfs merge=lfs -text
