@@ -1,2 +1,38 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_LargeVolcano_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_LavaCave_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_LavaCave_2.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_LavaCave_3.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_LavaField_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_LavaFlow_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_LavaFlow_2.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Volcano\SM_VolcanoSmoke_1.uasset filter=lfs diff=lfs merge=lfs -text
+
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_LavaPlatform_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_LStoneBlock_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_LPlatformTall_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_RockyPlatform_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_TPlatform_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_TPlatform_2.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_TPlatform_3.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_TRockColumn_1.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\LPSDeluxe2TropicalEnvironment\LPSD2_Meshes\Platform\SM_XLPlatform_1.uasset filter=lfs diff=lfs merge=lfs -text
+
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_R_Rock_01.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_R_Rock_02.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_R_Rock_03.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_R_Rock_04.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_R_Rock_05.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_01.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_02.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_03.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_04.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_05.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_06.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_07.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_08.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_09.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_10.uasset filter=lfs diff=lfs merge=lfs -text
+\Content\ImportedAssets\Stylized_PBR_Nature\Rocks\Assets\SM_S_Rock_11.uasset filter=lfs diff=lfs merge=lfs -text
