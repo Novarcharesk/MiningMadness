@@ -1,0 +1,6 @@
+SM_MatPreviewMesh_01.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Plane.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Platform_1.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Set_1.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Sphere_1.uasset filter=lfs diff=lfs merge=lfs -text
+SM_Template_Map_Floor.uasset filter=lfs diff=lfs merge=lfs -text
